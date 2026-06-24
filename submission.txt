@@ -1,0 +1,11 @@
+# Menjalankan skrip ETL
+python main.py
+
+# Menjalankan unit test
+pytest tests/
+
+# Menjalankan test coverage
+pytest --cov=utils tests/
+
+# URL Google Sheets
+https://docs.google.com/spreadsheets/d/1aO7rcAtWFg6FRJfl2Px-9ZUm3zEIGkcXSZSbadIKk-8/edit?gid=0#gid=0

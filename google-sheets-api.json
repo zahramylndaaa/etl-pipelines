@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fashion-studio-dicoding",
+  "private_key_id": "5adfdaeb54a6c2125d76272a19a50431f63f2185",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDma0dcxGzZcTh8\n3JyIvvBm/3Vn7S50xML+giZj1afGKwyQIukMx1AhNCDN9TBW9qIxB8LGvfROFVNf\nad4VrClZpI3qVC13JbgcDwE3QVh29c5Om+qic9AHzgbfWH4ZmzlChSLFmZU2vymv\nhUHC9RMKIxbNbw/yoOWiBWqjlrDDxpbjgz07Utdoldr/pKEEJq6bCoOepVapfJ0I\n4qbyd2sP3LaqH4ZBZg1mNRok3WsxdvaU6OkAWMjBAYKOj89ReP9q5rnmPTQUMEx9\n7wJECx61fMaBmHGviKsMOK7pX8GTXOaytMzYn+2b/MTXev8reZXSI6bIf3LAPz4D\nPXCR1ztRAgMBAAECggEABKMXDt2TG5y+mGCvzV60vTxNE0TZYP2bhDF/u681wg3l\nIe3Z7Wk1ClE5JPvwt5qDpBbCy2rqN9VDb5GhWwoZoO8bV6JopQblmbon+gH+8xHt\ngqgUawvt0IjLmzYPZgBTAPnN7wnkUCajtgXcz3AZxhcm4wZ/qZA/kgJ0fwtOAZQu\n3ENjUEEJ5jkKKyKZLKm4R8Ht+6oE15Q21g2llm512NngF+NUTzkKU/PeEeNQu8w9\nEm69AlZ0FHsC+WRM6KHBKkcCLhdIsPngnBsN+nx32EuwhCJV8Y0fb5FAxv2T7spn\nso2bVR11Pt5xeS12F77wF+Pqr/OEJ+QKWgg7ngjTUwKBgQD9PInbRYVRXD3h8pFu\no8phUVh/W4yEENmwgmIVLqviLexVfwkPzFE9N3yx2QRHVQzzUkUSYypExJSgdWts\nQ6UCsRs1kSINu5Y6U3wIE8r31NtYsNfWDT+PV2zyTPDxSOCX7RbqS1X+/3EoZa1M\njCiP3IQ+Q/4TlQSWSpZBFYbTzwKBgQDo7v7mT0EA4gWjB8NXegWWqZlMuKTsc2+K\n3CmQuIwbSnVFoel9b1OEdwsXEtfzrrplWGCX9nm58IdPJMEapeTf5UJkie2PEkj6\nbjd9Bi4JQ8BY1Bmqdz2PzM7uRelJdHtR8aNXjUVvwtzzYN8Eb0BIvoPygqQsN0iV\nWGHD68wm3wKBgQDIXXP+CH25qDBWbGThk7r3UTOiYT9G50Y2wJL2i5z4MrnB0+fJ\nljHZK+P/m+QkxIigpUF9kPTKwHeQlhdO7B7NiHAs7A5zqy7sK04B3hdEDCkZfaLo\n/EaEFfpfpL0nTDBYRQFSlBUQ0/AmtHxwCp21ZhdEZOvNdqTQfWdxS6UIRQKBgDKi\nMRqTQ8gTWbJUr6vGRIy5lS9OO9uCRE7lCMwCscIE73URexXfK0JyNiDv4a2A39fD\n3EtsMo2usVsM3EUUpqncxg/gw5kEGoUFjF5LB5rP9XHZuTKK9QDbPmghHlLvVRc8\n9YrElMF0lF77Qb9PB6RIdZozt8g8xDRin+3cxeX1AoGAVYMC/KyLx4C6Koj65n64\n2tQR3Awe5j/wY7FiH/qOjrjghXJHimrpW9Iiwbj2gb05oYEOnzzvE/GbDtFNrdW4\nAWvNaPt1Z96vrjIIn450AdkFgUFkh1eecmeIZrlQinwPMiwkef47kzedbNkptHw3\nnu/75d+LHjOMfgmqWCBR2EA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fashion-studio-service@fashion-studio-dicoding.iam.gserviceaccount.com",
+  "client_id": "103307349200275565722",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fashion-studio-service%40fashion-studio-dicoding.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
